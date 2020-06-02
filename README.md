@@ -1,4 +1,5 @@
-# NetWorkInfoUtility
+
+
 
 public class CheckNetworkConnection extends AsyncTask < Void, Void, Boolean > {
     private OnConnectionCallback onConnectionCallback;
