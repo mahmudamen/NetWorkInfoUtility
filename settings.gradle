@@ -1,0 +1,3 @@
+include ':InternetConnection'
+include ':app'
+rootProject.name = "NetWorkInfoUtility"
